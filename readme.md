@@ -1,5 +1,5 @@
-##WallPpr
-####Simple Wallpapers for your stuff! 🎨🖌
+## WallPpr
+#### Simple Wallpapers for your stuff! 🎨🖌
 
 Click on any of the images below to download a 1920x1200 version of that image. 
 
